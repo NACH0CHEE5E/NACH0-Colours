@@ -71,7 +71,7 @@
 		{
 			"fileType": "addBlockJobs",
 			"index": 10000,
-			"relativePath": "gamedata/Base/JobBlocks/JobBlocks.json"
+			"relativePath": "gamedata/JobBlocks/JobBlocks.json"
 		},
 		{
 			"fileType": "addOrOverrideLocalization",
